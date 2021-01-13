@@ -1,10 +1,10 @@
-title: ML Additional Resources
-description: "Complemental/supplemental material for the University of Alberta's CMPUT 466/566: Machine Learning Course"
+title: ML Additional Resources Test Site
+description: "Test site for complemental/supplemental material for the University of Alberta's CMPUT 466/566: Machine Learning Course"
 remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "Source/Download":
-    - "//github.com/dem1995/machine-learning"
+    - "//github.com/dem1995/machine-learning-test"
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
   config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
